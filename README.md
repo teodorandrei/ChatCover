@@ -10,6 +10,7 @@
 * Project Coordinator.
 * Web development.
 * CSS / HTML - Scripter.
+* Patreon: [My Patreon Page](https://www.patreon.com/Gabitzuu1337)
 ---
 
 #### Teo
@@ -21,3 +22,4 @@
 * Application development.
 * Data Base development.
 * C#, PHP, SQL - Scripter.
+* Patreon: [My Patreon Page](https://www.patreon.com/ailincainicolaerares)
