@@ -1,7 +1,7 @@
 # ChatCover
 
 * Content
-1. Our Team
+1. [Our Team](#team)
 2. About our application
 
 ## Team
